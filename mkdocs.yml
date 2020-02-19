@@ -1,5 +1,5 @@
 site_name: DCP
-pages:
+nav:
 - Home: index.md
 - Table of Contents : tableofcontents.md
 - Overview of the UPG: overview.md
@@ -153,7 +153,7 @@ pages:
     - Glossary of Terms And Acronyms: appendices/glossary.md
 - About Us: aboutUs.md
 
-theme_dir: custom_theme
+theme.custom_dir: custom_theme
 theme: readthedocs
 
 extra_css:
