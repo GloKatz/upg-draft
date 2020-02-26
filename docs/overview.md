@@ -104,9 +104,9 @@ Any further issues may be directed via email to: Geosupport_DL@planning.nyc.gov
 
 * **(Geosupport System) Fine tuning and bug fixes were implemented**  
 
-    * <b>For functions 1, 1E and 1B, the count of cross streets in the list of the High-End Cross Streets (a.k.a ‘To Cross Streets’) is now accurate even for Addressable Place Names and Non-Addressable Place Names (NAPs).  
+    * <b>For functions 1, 1E and 1B, the count of cross streets in the list of the High-End Cross Streets (a.k.a ‘To Cross Streets’) is now accurate even for Addressable Place Names and Non-Addressable Place Names (NAPs).
 
-      (All COW Function 1, 1E and 1B related calls)</b>
+    (All COW Function 1, 1E and 1B related calls)</b>
 
 <br>
 <br>
