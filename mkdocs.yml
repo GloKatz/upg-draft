@@ -153,8 +153,9 @@ nav:
     - Glossary of Terms And Acronyms: appendices/glossary.md
 - About Us: aboutUs.md
 
-theme_dir: custom_theme
-theme: readthedocs
+theme:
+    name: readthedocs
+    custom_dir: custom_theme
 
 extra_css:
     - css/main.css
